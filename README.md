@@ -19,3 +19,5 @@ Our flagship **AAAG CP (Controlled Percolating) Hose** features a unique, state-
 Looking for a reliable fire hose manufacturer or bulk supplier? 
 * **Website:** https://aaagindia.in/
 * **Inquiries:** info@aaagindia.in
+* <img width="148" height="226" alt="CP20E2809320IS208423_1587410128" src="https://github.com/user-attachments/assets/03d7b58c-e87f-4f94-9df1-80700294d47b" />
+

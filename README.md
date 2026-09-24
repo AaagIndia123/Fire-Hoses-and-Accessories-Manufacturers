@@ -3,12 +3,9 @@
 Welcome to the official repository for **AAAG India (AaagIndia123)**, a leading manufacturer of premium fire-fighting equipment, high-performance fire hoses, and specialized industrial safety accessories.
 
 ## AAAG CP (Controlled Percolating) Hose
-<img width="148" height="226" alt="CP20E2809320IS208423_1587410128" src="https://github.com/user-attachments/assets/5cd4b533-c0e7-4b47-9d25-b0daebf84905" />
-
+<img width="148" height="226" alt="fire-hose-coupling-accessories png" src="https://github.com/user-attachments/assets/36553721-cdf0-42f7-8c0f-122fc0ec0f2b" />
 Our flagship **AAAG CP (Controlled Percolating) Hose** features a unique, state-of-the-art construction designed to ensure continuous, controlled oozing of water all around the jacket. This specialized engineering maintains safety without compromising pressure loss, making these hoses ideal for high-radiant heat environments.
-
-<img width="293" height="408" alt="RRL20IS20-2063620Type20-20A_1587410122" src="https://github.com/user-attachments/assets/29c97e7c-961a-4568-9415-d00bcd83d9cf" />
-
+<img width="293" height="408" alt="aaag-cp-controlled-percolating-fire-hose jpg" src="https://github.com/user-attachments/assets/d9b62121-860c-4757-a699-fbf383ad4851" />
 
 ## Our Product Range
 * **Fire Hoses:** Controlled percolating hoses, non-percolating hoses, and industrial delivery hoses.

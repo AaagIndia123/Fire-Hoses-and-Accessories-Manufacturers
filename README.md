@@ -4,6 +4,7 @@ Welcome to the official repository for **AAAG India (AaagIndia123)**, a leading 
 
 ## AAAG CP (Controlled Percolating) Hose
 <img width="148" height="226" alt="fire-hose-coupling-accessories png" src="https://github.com/user-attachments/assets/36553721-cdf0-42f7-8c0f-122fc0ec0f2b" />
+
 Our flagship **AAAG CP (Controlled Percolating) Hose** features a unique, state-of-the-art construction designed to ensure continuous, controlled oozing of water all around the jacket. This specialized engineering maintains safety without compromising pressure loss, making these hoses ideal for high-radiant heat environments.
 <img width="293" height="408" alt="aaag-cp-controlled-percolating-fire-hose jpg" src="https://github.com/user-attachments/assets/d9b62121-860c-4757-a699-fbf383ad4851" />
 
